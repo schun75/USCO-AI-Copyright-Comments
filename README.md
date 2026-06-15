@@ -6,4 +6,4 @@ This repository contains supplementary materials for the study:
 
 The repository includes selected original comments organized by stakeholder group, as well as the original U.S. Copyright Office Notice of Inquiry (Docket No. 2023-6).
 
-These materials are provided to allow readers to review the original comments used to support the qualitative interpretations presented in the paper.
+Files are provided in PDF format. If a file preview does not render correctly in GitHub, please download the PDF directly.
